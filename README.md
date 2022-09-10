@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning React & Typescript
 
-Blog Link: justcodebryan.github.io/blog
+Blog Link: [justcodebryan blog](justcodebryan.github.io/blog/)
 
 <!---
 justcodebryan/justcodebryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
